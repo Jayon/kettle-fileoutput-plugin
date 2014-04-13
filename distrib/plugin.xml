@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+
+   id="GamesTextFileOutput"
+   iconfile="TFO.png"
+   description="Games Text File Output"
+   tooltip="Write rows to text file,can specify the category"
+   category="GamesPlugins"
+   classname="plugin.games.data.trans.step.fileoutput.TextFileOutputMeta">
+		
+		<libraries>
+    		<library name="GamesStepTextFileOutputPlugin.jar"/>
+		</libraries>
+	
+</plugin>
